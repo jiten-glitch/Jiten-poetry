@@ -1,4 +1,4 @@
-# Alfaaz-e-Tushar ✍️
+# Alfaaz-e-Jiten... ✍️
 
 Yeh meri personal poetry website hai jahan main apni likhi hui shayari aur kavitaen share karta hoon.
 
@@ -8,14 +8,14 @@ Yeh website simple HTML aur CSS ka use karke banayi gayi hai.
 
 ## 🌍 Live Website
 Website live hai yahan:
-👉 https://username.github.io/tushar-poetry/
+👉 https://Jiten-glitch.github.io/tushar-poetry/
 
 ## 🛠️ Tech Used
 - HTML
 - CSS
 
 ## 👤 Author
-**Tushar**
+**Jiten...**
 
 ---
 *Agar aapko shayari pasand aaye to share zaroor karein.* ❤️
