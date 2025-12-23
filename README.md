@@ -8,7 +8,7 @@ Yeh website simple HTML aur CSS ka use karke banayi gayi hai.
 
 ## 🌍 Live Website
 Website live hai yahan:
-👉 https://Jiten-glitch.github.io/jiten-poetry/
+👉 https://Jiten-glitch.github.io/Jiten-poetry/
 
 ## 🛠️ Tech Used
 - HTML
